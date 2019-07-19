@@ -90,3 +90,17 @@ textarea {
 h6{
   padding-top: 5px;
 }
+.design-p {
+ display: none;
+ padding:5px;
+}
+
+.dev-p {
+ display: none;
+ padding:5px;
+}
+
+.product-p {
+ display: none;
+ padding:5px;
+}
