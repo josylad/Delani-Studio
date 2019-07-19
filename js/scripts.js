@@ -14,3 +14,12 @@ $(document).ready(function(){
     $("#dev-h").css("font-weight","Bold");
     $(".dev-par").css("text-align","center");
   });
+
+  $("#product-pic").click(function(){
+     $(".product-p").toggle();
+     $("#product-img").toggle();
+     $("#product-h").css("font-weight","Bold");
+     $(".product-par").css("text-align","center");
+   });
+
+  });
