@@ -83,16 +83,7 @@ $(document).ready(function() {
 
 });
 
-// $(document).ready(function() {
-//   $("form").submit(function(event) {
-//     event.preventDefault();
-//     var name = document.forms["myform"]["fname"].value;
-//     var email = document.forms["myform"]["email"].value;
-//     var message = document.forms["myform"]["message"].value;
-//     alert(name + " We have received your message. Thank you for reaching out to us. ");
-//       }
-//   });
-// });
+
 function contact(form){
   var name = document.forms["myform"]["fname"].value;
       var email = document.forms["myform"]["email"].value;
