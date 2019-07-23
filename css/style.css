@@ -30,10 +30,12 @@ body {
 .section4 {
   margin-top: 40px;
   margin-bottom: 20px;
+  min-height: 350px;
 }
 
 .section5 {
   margin-top: 40px;
+  padding-top: 10px;
   margin-bottom: 20px;
 }
 
